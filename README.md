@@ -5,4 +5,4 @@ Tarımsal ürünlerin sağlık durumunun doğru bir şekilde tespit edilmesi ve 
 
 Kaggle platformunda yayınlanan veri setini kullanarak, elma ağaçlarının sağlık durumunu doğru bir şekilde sınıflandırmayı amaçlanmıştır.
 
-![apple](www.iasbh.tmgrup.com.tr/ebc4ce/650/344/0/104/723/484?u=https://isbh.tmgrup.com.tr/sbh/2021/09/27/ruyada-elma-agaci-gormek-ne-anlama-gelir-ruyada-agactan-elma-toplamak-ne-demek-1632733298098.jpg)
+![apple](https://iasbh.tmgrup.com.tr/9360df/752/395/0/104/723/484?u=https://isbh.tmgrup.com.tr/sbh/2021/09/27/ruyada-elma-agaci-gormek-ne-anlama-gelir-ruyada-agactan-elma-toplamak-ne-demek-1632733298098.jpg)
